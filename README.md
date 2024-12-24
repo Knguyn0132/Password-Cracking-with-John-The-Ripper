@@ -1,7 +1,3 @@
-Sure, here's a README file that you can copy and paste. It provides step-by-step instructions on how to install Kali Linux on VirtualBox:
-
----
-
 # Installing Kali Linux on VirtualBox
 
 This guide will walk you through the process of installing Kali Linux on VirtualBox. Follow these steps to set up your virtual environment.
